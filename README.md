@@ -1,0 +1,3 @@
+# yoBot
+
+just `!hug`, enjoy :)
